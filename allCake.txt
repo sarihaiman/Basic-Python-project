@@ -1,0 +1,25 @@
+coffe:
+eggs 3
+oil 100g
+sugar 200g
+water 240ml
+flour 280g
+cinnamon 2.5g
+cocoa 6g
+coffee  2.5g
+coconut 30g
+coconut:
+sugar 100g
+oil 66g
+orangejuice 160g
+flour 105g
+coconut 45g
+apple:
+eggs 4
+oil 150g
+sugar 200g
+flour 280g
+cinnamon 8g
+apples  3
+wine120ml
+choppedwalnuts 35g
