@@ -1,6 +1,6 @@
 # Basic Python Graduation Project
 
-This Python project fulfills the requirements for the Basic Python Graduation Project. It includes functionalities such as managing departments and successor departments, working with complex dictionaries, handling file operations, managing exceptions, Lambda, Comprehension and Generators.
+This Python project fulfills the requirements for the Basic Python Graduation Project. It includes functionalities such as managing departments and successor departments, working with complex dictionaries, handling file operations, managing exceptions, Lambda, Comprehension, Generators and Utilizing an external library - pygame.
 
 ## Requirements
 
